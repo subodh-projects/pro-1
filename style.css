@@ -1,0 +1,205 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color:#6927ff;                              /*color: #66BFBF;*/
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #900048;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #900048;  /*color: #11999E;*/
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+  position:absolute;
+  left:55%;
+  top:40%;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+
+}
+
+.tribute{
+  margin: 5px;
+
+}
+
+
+em {
+  font-weight: normal;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+
+
+.contact-message {
+  width: 40%;
+  margin: 0 auto 0;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.btn {
+  position: relative;
+  bottom: 35px;
+  background: #34d9b8;
+  background-image: linear-gradient(to bottom, #34d9b8, #3b2bb8);
+  border-radius: 11px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfccc;
+  background-image: linear-gradient(to bottom, #3cfccc, #14e3c7);
+  text-decoration: none;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 220px;
+  bottom: 300px;
+}
+
+.code-img {
+  border-radius: 50%;
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.html5-img{
+  float:right;
+  width: 25%;
+  margin-left: 30px;
+
+}
+
+.css3-img{
+  float:left;
+  width: 25%;
+  margin-right: 30px;
+
+}
+
+.javascript-img{
+  float:right;
+  width: 25%;
+  margin-left: 30px;
+  border-radius: 35%;
+}
+
+.bootstrap-img{
+  float:left;
+  width: 25%;
+  margin-right: 30px;
+
+}
+
+.jquery-img{
+  float:right;
+  width: 25%;
+  margin-left: 30px;
+
+}
+
+.ajax-img{
+  float:left;
+  width: 25%;
+  margin-right: 30px;
+
+}
+
+.json-img{
+  float:right;
+  width: 25%;
+  margin-left: 30px;
+
+}
+
+.git-img {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.my-photo {
+/*  border-radius: 3%;*/
+  width: 150px;
+  height: 150px;
+}
