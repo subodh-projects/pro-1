@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  color:#6927ff;                              /*color: #66BFBF;*/
+  color:#6927ff;                              
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   line-height: 2;
@@ -22,11 +22,11 @@ h2 {
 }
 
 h3 {
-  color: #900048;  /*color: #11999E;*/
+  color: #900048; 
   font-family: 'Montserrat', sans-serif;
 }
 
-h4{
+h4 {
   position:absolute;
   left:55%;
   top:40%;
@@ -41,14 +41,11 @@ a {
 
 a:hover {
   color: #EAF6F6;
-
 }
 
-.tribute{
+.tribute {
   margin: 5px;
-
 }
-
 
 em {
   font-weight: normal;
@@ -84,8 +81,6 @@ hr {
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
-
-
 
 .contact-message {
   width: 40%;
@@ -142,53 +137,47 @@ hr {
   margin-right: 30px;
 }
 
-.html5-img{
+.html5-img {
   float:right;
   width: 25%;
   margin-left: 30px;
-
 }
 
-.css3-img{
+.css3-img {
   float:left;
   width: 25%;
   margin-right: 30px;
-
 }
 
-.javascript-img{
+.javascript-img {
   float:right;
   width: 25%;
   margin-left: 30px;
   border-radius: 35%;
 }
 
-.bootstrap-img{
+.bootstrap-img {
   float:left;
   width: 25%;
   margin-right: 30px;
-
 }
 
-.jquery-img{
+.jquery-img {
   float:right;
   width: 25%;
   margin-left: 30px;
-
 }
 
-.ajax-img{
+.ajax-img {
   float:left;
   width: 25%;
   margin-right: 30px;
-
 }
 
-.json-img{
+.json-img {
   float:right;
   width: 25%;
   margin-left: 30px;
-
 }
 
 .git-img {
@@ -199,7 +188,6 @@ hr {
 }
 
 .my-photo {
-/*  border-radius: 3%;*/
   width: 150px;
   height: 150px;
 }
